@@ -1,0 +1,14 @@
+<?php
+    include('Header.php');
+?>
+<?php
+    include('./components/_banner-area.php');
+    include('./components/_top-sale.php');
+    include('./components/_special-price.php');
+    include('./components/_banner_adds.php');
+    include('./components/_new-phones.php');
+    include('./components/_Blogs.php');
+?>
+<?php
+    include('Footer.php');
+?>

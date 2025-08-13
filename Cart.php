@@ -1,0 +1,10 @@
+<?php
+    include('Header.php');
+?>
+<?php
+    include('./components/_cart.php');
+    include('./components/_new-phones.php');
+?>
+<?php
+    include('Footer.php');
+?>
