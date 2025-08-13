@@ -1,2 +1,7 @@
-@use './include/variables.scss';
+@use './include/variables.scss' as *;
+@use './include/global.scss';
+@use './include/typography.scss';
+@use './include/top-sale.scss';
+@use './include/color.scss';
+@use './include/special-price.scss';
 @import url('https://fonts.googleapis.com/css2?family=Nata+Sans:wght@100..900&family=Outfit:wght@100..900&family=Rubik:ital,wght@0,300..900;1,300..900&family=Sofia+Sans:ital,wght@0,1..1000;1,1..1000&display=swap');
